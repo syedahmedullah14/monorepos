@@ -5,8 +5,8 @@ import { Button } from "@repo/ui/button";
 export default function Page(): JSX.Element {
   return (
    <div>
-    <Button>
-
+    <Button appName="WebApp">
+      Hi there
     </Button>
    </div>
       
