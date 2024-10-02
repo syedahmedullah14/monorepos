@@ -7,3 +7,5 @@ app.get("/", (req, res) => {
         message: "Hello world"
     })
 })
+
+app.listen(3000);
